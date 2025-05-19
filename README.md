@@ -12,6 +12,22 @@
 - 🧠 **ML/DL**: scikit-learn, TensorFlow, Keras
 - 📈 **Data Visualization**: Pandas, Numpy, Matplotlib, Seaborn, Power BI, Tableau
 - 📚 **Other**: Excel
+
+## 🚀 Projects
+
+Here are some of the projects I’ve worked on:
+
+- 🐶 **Dog Breed Prediction**
+  - Built a deep learning model using `ResNet50` to classify dog breeds from images.
+- 🖊️ **Handwritten Digit Recognition (MNIST)**
+  - Compared classification algorithms: `KNN`, `SVM`, `Random Forest`, and `Naive Bayes`.
+- 🧾 **User Registration Form**
+  - Developed a GUI-based registration system using `Java Swing` connected to an `Oracle` database.
+- 🌍 **Life Expectancy Report**
+  - Created a dashboard using `Power BI`, enhanced with `Python scripts` for data preprocessing and analysis.
+- 🎵 **Spotify Analysis Dashboard**
+  - Designed an interactive dashboard in `Tableau` to explore track popularity, genres, and artist trends.
+
 <!---
 JaisreeMK-15/JaisreeMK-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
