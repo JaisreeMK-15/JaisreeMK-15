@@ -28,6 +28,11 @@ Here are some of the projects I’ve worked on:
 - 🎵 **Spotify Analysis Dashboard**
   - Designed an interactive dashboard in `Tableau` to explore track popularity, genres, and artist trends.
 
+## 📫 Let's Connect
+
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaisree-m-k-405687270)  
+- 📧 Email: mkjaisree@gmail..com
+
 <!---
 JaisreeMK-15/JaisreeMK-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
