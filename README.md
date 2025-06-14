@@ -27,6 +27,8 @@ Here are some of the projects I’ve worked on:
   - Created a dashboard using `Power BI`, enhanced with `Python scripts` for data preprocessing and analysis.
 - 🎵 **Spotify Analysis Dashboard**
   - Designed an interactive dashboard in `Tableau` to explore track popularity, genres, and artist trends.
+- 🌾 **Crop Yield Prediction and Recommendation**
+  - Currently developing a regression model to predict the crop yield and also to give crop recommendations for the future based on present data.
 
 ## 📫 Let's Connect
 
