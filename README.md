@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jaisree M K
 
 🎓 I'm a postgraduate student specializing in Data Science, passionate about turning data into actionable insights.  
-💡 I enjoy working on projects involving machine learning, computer vision, data visualization and NLP.  
-🌱 Currently exploring Deep Learning models, Large Language Models (LLMs), Vision-Language Models (VLMs) and their applications in various domains.  
+💡 I am working on projects involving machine learning, computer vision, data visualization and NLP.  
+🌱 Actively learning about Deep Learning models, Large Language Models (LLMs), Vision-Language Models (VLMs) and their applications in various domains.  
 💬 Always happy to discuss data, tech, and innovative ideas!
 
 ## 🔧 Tools & Technologies
